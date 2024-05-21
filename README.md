@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hunterkurt
+- 👋 Hi, I’m @Hunter Anderson
 - 👀 I’m interested in all things computers (Former Network Engineer) (Current full time Computer Science student)
 - 🌱 I’m currently learning Python and HTML
 - 📫 How to reach me - hkurtanderson@gmail.com
