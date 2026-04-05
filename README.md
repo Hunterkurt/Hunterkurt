@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hunterkurt
-- 👀 I’m interested in all things computers (Former Network Engineer) (Current full time Software Engineer student)
+- 👀 I’m interested in all things computers (Former Network Engineer) (Current full time Computer Engineer student)
 - 🌱 I’m currently learning Python, HTML, CSS, and JavaScript
 - 📫 How to reach me - hkurtanderson@gmail.com
 <!---
